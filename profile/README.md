@@ -22,7 +22,7 @@ Behind the scenes, we’re also building the technology to scale human connectio
 
 ---
 
-##  What We're Working On
+##  What we're working on
 
 -  Expanding EnhanceMe's framework into a fully licensed API for dating platforms and growth apps  
 -  Exploring fine-tuned LLMs for culturally sensitive profile generation and user tone mirroring  
