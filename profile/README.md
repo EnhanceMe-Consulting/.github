@@ -1,4 +1,4 @@
-# ✨ EnhanceMe · Authentic profiles, powered by psychology, personal branding techniques, and code
+# ✨ EnhanceMe: Authentic profiles powered by psychology, personal branding techniques, and code
 
 > We’re building the software infrastructure for emotionally intelligent self-presentation — starting with dating, expanding into wellness, and powered by personal growth.
 
