@@ -17,7 +17,7 @@ Behind the scenes, we’re also building the technology to scale human connectio
 | Repository | Description |
 |------------|-------------|
 | [`enhanceme-theme`](https://www.enhanceme.io/) | Our custom [Ghost](https://ghost.org/) theme for the EnhanceMe platform. Fully responsive and accessibility-minded. Private repository. |
-| [`enhanceme-splash-next`](https://enhanceme-splash-next.vercel.app) | Our original Next.js splash page – optimized for mobile, used in pre-launch, and integrated with Mailchimp. (Public repository)[https://github.com/EnhanceMe-Consulting/enhanceme-splash-page]  |
+| [`enhanceme-splash-next`](https://enhanceme-splash-next.vercel.app) | Our original Next.js splash page – optimized for mobile, used in pre-launch, and integrated with Mailchimp. [Public repository](https://github.com/EnhanceMe-Consulting/enhanceme-splash-page)  |
 | `llm-research` (coming soon) | Experimental work in LLM-based persona modeling and tone adaptation, aligned with our upcoming API and white-label offering. |
 
 ---
